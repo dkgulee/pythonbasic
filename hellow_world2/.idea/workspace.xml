@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c46fe961-5cd4-4844-af4d-70bf9a9a2ff1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Stub" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1US6jBAYcVnV0bHzdPrwT2BfOdQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test_file" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\python_workspace\hellow_world2\test_file" />
+      <recent name="C:\python_workspace\hellow_world2\2019-12-09" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\python_workspace\hellow_world2\2019-12-09\webcrawlering" />
+      <recent name="C:\python_workspace\hellow_world2\2019-12-04" />
+      <recent name="C:\python_workspace\hellow_world2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.manage (1)">
+    <configuration name="2019-12-09_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hellow_world2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_file" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_file/2019-12-09_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hellow_world2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="C:/django_workspaces/django_git/hello_world" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:/django_workspaces/django_git/hello_world/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hellow_world2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="C:/django_workspaces/django_git/bookmark" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:/django_workspaces/django_git/bookmark/manage.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="webcrawlering_practice (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hellow_world2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_file" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_file/webcrawlering_practice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="webcrawlering_practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="hellow_world2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2019-12-09/webcrawlering" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2019-12-09/webcrawlering/webcrawlering_practice.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage (1)" />
+        <item itemvalue="Python.manage" />
+        <item itemvalue="Python.2019-12-09_test" />
+        <item itemvalue="Python.webcrawlering_practice (1)" />
+        <item itemvalue="Python.webcrawlering_practice" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c46fe961-5cd4-4844-af4d-70bf9a9a2ff1" name="Default Changelist" comment="" />
+      <created>1575337782104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575337782104</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1748" height="466" key="DebuggerActiveHint" timestamp="1575861968888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1748" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1575861968888" />
+    <state width="1159" height="241" key="GridCell.Tab.0.bottom" timestamp="1575943001250">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1159" height="241" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575943001250" />
+    <state width="1159" height="241" key="GridCell.Tab.0.center" timestamp="1575943001250">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1159" height="241" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575943001250" />
+    <state width="1159" height="241" key="GridCell.Tab.0.left" timestamp="1575943001250">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1159" height="241" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575943001250" />
+    <state width="1159" height="241" key="GridCell.Tab.0.right" timestamp="1575943001250">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1159" height="241" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575943001250" />
+    <state width="1159" height="343" key="GridCell.Tab.1.bottom" timestamp="1575890830545">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1159" height="343" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1575890830545" />
+    <state width="1159" height="343" key="GridCell.Tab.1.center" timestamp="1575890830545">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1159" height="343" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1575890830545" />
+    <state width="1159" height="343" key="GridCell.Tab.1.left" timestamp="1575890830545">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1159" height="343" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1575890830545" />
+    <state width="1159" height="343" key="GridCell.Tab.1.right" timestamp="1575890830545">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1159" height="343" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575890830545" />
+    <state x="730" y="179" key="SettingsEditor" timestamp="1575872695612">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="730" y="179" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1575872695612" />
+    <state x="829" y="100" width="997" height="840" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1575872250009">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="829" y="100" width="997" height="840" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575872250009" />
+    <state x="657" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1575936690622">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="657" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575936690622" />
+    <state x="360" y="120" width="1200" height="800" key="dock-window-1" timestamp="1575349324328">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="360" y="120" width="1200" height="800" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1575349324328" />
+    <state x="653" y="124" width="613" height="792" key="find.popup" timestamp="1575872247195">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="653" y="124" width="613" height="792" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1575872247195" />
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1575856753790">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="239" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1575856753790" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2019-12-04/repeititive_statement.js.py</url>
+          <line>63</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2019-12-05/sequence_tuple.js.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2019-12-09/webcrawlering/wercrwlering_naver_weaher.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
